@@ -1,0 +1,15 @@
+H:\asp dot net\ViewModel.App\bin\Debug\net6.0\ViewModel.App.deps.json
+H:\asp dot net\ViewModel.App\bin\Debug\net6.0\ViewModel.App.dll
+H:\asp dot net\ViewModel.App\bin\Debug\net6.0\ref\ViewModel.App.dll
+H:\asp dot net\ViewModel.App\bin\Debug\net6.0\ViewModel.App.pdb
+H:\asp dot net\ViewModel.App\obj\Debug\net6.0\ViewModel.App.GeneratedMSBuildEditorConfig.editorconfig
+H:\asp dot net\ViewModel.App\obj\Debug\net6.0\ViewModel.App.AssemblyInfoInputs.cache
+H:\asp dot net\ViewModel.App\obj\Debug\net6.0\ViewModel.App.AssemblyInfo.cs
+H:\asp dot net\ViewModel.App\obj\Debug\net6.0\ViewModel.App.csproj.CoreCompileInputs.cache
+H:\asp dot net\ViewModel.App\obj\Debug\net6.0\ViewModel.App.dll
+H:\asp dot net\ViewModel.App\obj\Debug\net6.0\ref\ViewModel.App.dll
+H:\asp dot net\ViewModel.App\obj\Debug\net6.0\ViewModel.App.pdb
+H:\asp dot net\ViewModel.App\bin\Debug\net6.0\Data.BlazoorApp.dll
+H:\asp dot net\ViewModel.App\bin\Debug\net6.0\Data.BlazoorApp.pdb
+H:\asp dot net\ViewModel.App\obj\Debug\net6.0\ViewModel.App.csproj.AssemblyReference.cache
+H:\asp dot net\ViewModel.App\obj\Debug\net6.0\ViewModel.App.csproj.CopyComplete

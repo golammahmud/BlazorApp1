@@ -1,0 +1,13 @@
+H:\asp dot net\Data.BlazoorApp\bin\Debug\net6.0\Data.BlazoorApp.deps.json
+H:\asp dot net\Data.BlazoorApp\bin\Debug\net6.0\Data.BlazoorApp.dll
+H:\asp dot net\Data.BlazoorApp\bin\Debug\net6.0\ref\Data.BlazoorApp.dll
+H:\asp dot net\Data.BlazoorApp\bin\Debug\net6.0\Data.BlazoorApp.pdb
+H:\asp dot net\Data.BlazoorApp\obj\Debug\net6.0\Data.BlazoorApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\asp dot net\Data.BlazoorApp\obj\Debug\net6.0\Data.BlazoorApp.AssemblyInfoInputs.cache
+H:\asp dot net\Data.BlazoorApp\obj\Debug\net6.0\Data.BlazoorApp.AssemblyInfo.cs
+H:\asp dot net\Data.BlazoorApp\obj\Debug\net6.0\Data.BlazoorApp.csproj.CoreCompileInputs.cache
+H:\asp dot net\Data.BlazoorApp\obj\Debug\net6.0\Data.BlazoorApp.dll
+H:\asp dot net\Data.BlazoorApp\obj\Debug\net6.0\ref\Data.BlazoorApp.dll
+H:\asp dot net\Data.BlazoorApp\obj\Debug\net6.0\Data.BlazoorApp.pdb
+H:\asp dot net\Data.BlazoorApp\bin\Debug\net6.0\Data.BlazoorApp.runtimeconfig.json
+H:\asp dot net\Data.BlazoorApp\obj\Debug\net6.0\Data.BlazoorApp.genruntimeconfig.cache

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "3/CBm6xrPqU1K5vGBCGKSsorBk/dCNUL0nQLe4DkzvQ=",
+  "Source": "CustomComponents",
+  "BasePath": "_content/CustomComponents",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CustomComponents\\wwwroot",
+      "Source": "CustomComponents",
+      "ContentRoot": "H:\\asp dot net\\BlazorApp\\CustomComponents\\wwwroot\\",
+      "BasePath": "_content/CustomComponents",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "H:\\asp dot net\\BlazorApp\\CustomComponents\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CustomComponents.styles.css",
+      "SourceId": "CustomComponents",
+      "SourceType": "Computed",
+      "ContentRoot": "H:\\asp dot net\\BlazorApp\\CustomComponents\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CustomComponents",
+      "RelativePath": "CustomComponents.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\asp dot net\\BlazorApp\\CustomComponents\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CustomComponents.styles.css"
+    },
+    {
+      "Identity": "H:\\asp dot net\\BlazorApp\\CustomComponents\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CustomComponents.bundle.scp.css",
+      "SourceId": "CustomComponents",
+      "SourceType": "Computed",
+      "ContentRoot": "H:\\asp dot net\\BlazorApp\\CustomComponents\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CustomComponents",
+      "RelativePath": "CustomComponents.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\asp dot net\\BlazorApp\\CustomComponents\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CustomComponents.bundle.scp.css"
+    },
+    {
+      "Identity": "H:\\asp dot net\\BlazorApp\\CustomComponents\\wwwroot\\background.png",
+      "SourceId": "CustomComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\asp dot net\\BlazorApp\\CustomComponents\\wwwroot\\",
+      "BasePath": "_content/CustomComponents",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "H:\\asp dot net\\BlazorApp\\CustomComponents\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "CustomComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\asp dot net\\BlazorApp\\CustomComponents\\wwwroot\\",
+      "BasePath": "_content/CustomComponents",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

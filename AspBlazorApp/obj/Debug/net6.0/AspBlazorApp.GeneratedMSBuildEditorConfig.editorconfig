@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AspBlazorApp
+build_property.RootNamespace = AspBlazorApp
+build_property.ProjectDir = H:\asp dot net\BlazorApp\AspBlazorApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = H:\asp dot net\BlazorApp\AspBlazorApp
+build_property._RazorSourceGeneratorDebug = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Custom_Components/ConfirmationModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tX0NvbXBvbmVudHNcQ29uZmlybWF0aW9uTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Employeepages/AddEmpoyee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVwYWdlc1xBZGRFbXBveWVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Employeepages/EditEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVwYWdlc1xFZGl0RW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Employeepages/EmployeeCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVwYWdlc1xFbXBsb3llZUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Employeepages/EmployeeComponents/EmployeeCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVwYWdlc1xFbXBsb3llZUNvbXBvbmVudHNcRW1wbG95ZWVDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Employeepages/EmployeeDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVwYWdlc1xFbXBsb3llZURldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Employeepages/EmployeeList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVwYWdlc1xFbXBsb3llZUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Employeepages/Script.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVwYWdlc1xTY3JpcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Employeepages/Test.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVwYWdlc1xUZXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-h4v5hxa6x4
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-52c6ep9onb
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Areas/Identity/Pages/Account/LogOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[H:/asp dot net/BlazorApp/AspBlazorApp/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
